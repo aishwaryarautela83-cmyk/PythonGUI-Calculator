@@ -7,7 +7,6 @@ My First Phython GUI project showcasing a calculator built with Tkinter.This pro
 - ✖️ Multiplication
 - ➗ Division
 - 🧹 Clear button
-- ⌫ Backspace
 - 🖥️ Simple and user-friendly interface
 
 ## 🛠️ Technologies Used
@@ -20,7 +19,7 @@ My First Phython GUI project showcasing a calculator built with Tkinter.This pro
 3. Run:
    
    bash
-   python calculator.py
+   python CALCULATOR.py
    
 
 ## 📚 What I Learned
